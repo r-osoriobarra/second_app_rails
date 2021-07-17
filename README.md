@@ -15,4 +15,4 @@ Este proyecto tiene sólo la rama main, que contiene principalmente las vistas:
 * Rails 5.2.6
 
 ## Demo
-https://second2-app-rails.herokuapp.com/pages/test
+https://second2-app-rails.herokuapp.com/
